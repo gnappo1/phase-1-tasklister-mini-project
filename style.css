@@ -12,6 +12,19 @@ body {
 
 button {
   font-size: 7px;
+  margin-left: 0.7em;
+}
+
+.low {
+  background-color: green;
+}
+
+.medium {
+  background-color: orange;
+}
+
+.high {
+  background-color: red;
 }
 
 #main-content {
