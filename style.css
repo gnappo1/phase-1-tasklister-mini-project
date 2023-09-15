@@ -16,15 +16,15 @@ button {
 }
 
 .low {
-  background-color: green;
+  background-color: rgb(15, 158, 15);
 }
 
 .medium {
-  background-color: orange;
+  background-color: rgb(255, 166, 0);
 }
 
 .high {
-  background-color: red;
+  background-color: rgba(255, 0, 0, 0.809);
 }
 
 #main-content {
